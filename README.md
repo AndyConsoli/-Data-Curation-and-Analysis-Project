@@ -1,2 +1,3 @@
 # -Data-Curation-and-Analysis-Project
-will add a description later 
+The goal of this project is to collect data field major fields like the mining, agriculture, and manufacturing businesses to name a few, and use data to understand how much greenhouse gas emissions these types of companies typically omit CO2 into the atmosphere. By displaying visualizations like a scatter plot and histogram for this data allows a clear understanding on which industries produce the most greenhouse gasses and which one emit the least amount of CO2. 
+The MIT licence was used which provides users/viewers of my project to use all code and data in my project. 
